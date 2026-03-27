@@ -5,6 +5,6 @@
 3. Private messages to individual users.
 
 ## 📖Formats to use:
-1. /msg <username:Text> <messagebody:Text> : Sends private message to the given username ( if online)
+1. /msg [username:Text] [messagebody:Text] : Sends private message to the given username ( if online)
 2. /users : Fetch all the users ( online , offline )
-3. <message:Text> : Broadcast to all.
+3. [message:Text] : Broadcast to all.
